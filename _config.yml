@@ -104,7 +104,7 @@ analytics:
 # Site Author
 author:
   name             : "Jorge Ferreira"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/samurai.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Analyst Portfolio"
   location         : "Lisbon, Portugal"
   email            :
@@ -281,4 +281,3 @@ defaults:
     values:
       layout: single
       author_profile: true
-      
