@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Jorge Ferreira"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Jorge Ferreira"
+description              : "Data Analyst Portfolio"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -103,10 +103,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Jorge Ferreira"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : "Data Analyst Portfolio"
+  location         : "Lisbon, Portugal"
   email            :
   links:
     - label: "Email"
@@ -121,12 +121,13 @@ author:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
-    - label: "GitHub"
+    - label: "Jorg3GF"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+linkedin           : "jorgegferreira"
 
 # Site Footer
 footer:
@@ -290,3 +291,11 @@ defaults:
       comments: # true
       share: true
       related: true
+
+# _pages
+- scope:
+    path: ""
+    type: pages
+  values:
+    layout: single
+    author_profile: true
