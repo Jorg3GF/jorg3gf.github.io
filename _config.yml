@@ -104,8 +104,8 @@ analytics:
 # Site Author
 author:
   name             : "Jorge Ferreira"
-  avatar           : "/images/samurai.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data Analyst Portfolio"
+  avatar           : "/images/bio.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Data Analyst"
   location         : "Lisbon, Portugal"
   email            :
   github           : "jorg3gf"
