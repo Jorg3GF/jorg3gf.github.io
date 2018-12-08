@@ -109,6 +109,7 @@ author:
   location         : "Lisbon, Portugal"
   email            :
   github           : "jorg3gf"
+  linkedin         : "jorgegferreira"
 
 # Site Footer
 footer:
@@ -272,3 +273,12 @@ defaults:
       comments: # true
       share: true
       related: true
+
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      
