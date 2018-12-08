@@ -7,7 +7,7 @@ header:
   image: "/images/view.jpg"
 ---
 
-{% include base_path %}
+{% filter absolute_url %}
 {% include group-by-array collection=site.posts field="tags" %}
 
 {% for tag in group_names %}
