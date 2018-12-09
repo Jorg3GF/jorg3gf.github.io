@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /portfolio/
-title: "Portfolio"
+title: "Data Analysis Projects"
 author_profile: true
 header:
   image: "/images/wide.jpg"
