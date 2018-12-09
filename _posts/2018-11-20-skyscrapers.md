@@ -1,6 +1,7 @@
 ---
 title: "Skyscrapers"
 date: 2018-11-20
+tags: [algorithm]
 header:
   image: "/images/skyscrapers.jpg"
 excerpt: "Water collected on skyscrapers"
