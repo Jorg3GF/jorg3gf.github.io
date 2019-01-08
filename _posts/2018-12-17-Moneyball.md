@@ -13,7 +13,7 @@ The new-look Athletics, despite a comparative lack of star power, surprised the 
 Because of the team's smaller revenues, Oakland is forced to find players undervalued by the market and [this is an example of how it was accomplished](https://jorg3gf.github.io/Projects/moneyball.html).
 
 In case you are unfamiliar with Baseball, check out [this explanatory video](https://www.youtube.com/watch?v=0bKkGeROiPA).
-You can also have access to some additional information about the variables in this dataset in my [repository](https://github.com/Jorg3GF/projects/blob/master/readme2013.txt).
+You can also have access to some additional information about the variables in this dataset in my [repository](https://github.com/Jorg3GF/projects/blob/master/Moneyball_readme2013.txt).
 And please find the datasets used in this challenge [here](https://github.com/Jorg3GF/projects/blob/master).
 
 Enjoy!
