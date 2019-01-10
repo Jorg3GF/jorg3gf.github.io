@@ -1,7 +1,7 @@
 ---
 title: "Moneyball"
 date: 2018-12-17
-tags: [Descriptive Stats]
+tags: [other]
 header:
   image: "/images/moneyball.jpg"
 excerpt: "Finding Replacement Players"
