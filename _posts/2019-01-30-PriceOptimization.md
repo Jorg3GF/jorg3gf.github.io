@@ -13,10 +13,10 @@ They offer a promotion feature at $5 which attracts more attention to users' ads
 
 I was provided with a dataset containing the following information:
 
-Column A - all categories available on the platform in which users can list/post an ad;
-Column B - for each category it is indicated how many ads were posted/listed;
-Column C - the average price users ask for their listed ads per category;
-Column D - revenue made with the promotion feature per category.
+Column A - all categories available on the platform in which users can list/post an ad;  
+Column B - for each category it is indicated how many ads were posted/listed;  
+Column C - the average price users ask for their listed ads per category;  
+Column D - revenue made with the promotion feature per category.  
 
 Please feel free to access my [repository](https://github.com/Jorg3GF/projects) to get the dataset I used to tackle this challenge.
 
