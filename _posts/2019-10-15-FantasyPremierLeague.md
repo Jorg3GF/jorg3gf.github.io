@@ -14,7 +14,7 @@ And all of a sudden I thought of sports analytics - that was going to be the key
 
 If you are not familiar with the game, take a look at the rules [here](https://fantasy.premierleague.com/help/rules). By the way, the Premier League app is one of the best apps I have ever seen. So, if football is not your cup of tea but you are a digital savvy, you should give it a try!
 
-Take a look at my approach to the game [here](https://jorg3gf.github.io/Projects/FantasyPremierLeague.html) - this is an analysis of the first 8 game weeks of season 2019/20.
+Take a look at my approach to the game [here](https://jorg3gf.github.io/Projects/fantasyPL.html) - this is an analysis of the first 8 game weeks of season 2019/20.
 
 Or check out my [Shiny dashboard](https://jorg3.shinyapps.io/fantasydashboard/) to support your player transfers.
 
