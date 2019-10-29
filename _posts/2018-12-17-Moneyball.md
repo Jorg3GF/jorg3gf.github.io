@@ -4,7 +4,7 @@ date: 2018-12-17
 tags: [other]
 header:
   image: "/images/moneyball.jpg"
-excerpt: "Finding Replacement Players"
+excerpt: "Finding Replacement Players - Sports Analytics"
 ---
 
 Moneyball was the movie which woke me up to the power of analytics.
