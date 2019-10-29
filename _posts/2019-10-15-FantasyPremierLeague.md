@@ -1,7 +1,7 @@
 ---
 title: "Fantasy Premier League 2019/20"
 date: 2019-10-15
-tags: [Data Wrangling], [R Shiny]
+tags: [Data Wrangling, R Shiny]
 header:
   image: "/images/fpl.jpg"
 excerpt: "Sports Analytics"
