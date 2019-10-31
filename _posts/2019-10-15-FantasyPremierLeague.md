@@ -16,6 +16,6 @@ If you are not familiar with the game, take a look at the rules [here](https://f
 
 Take a look at my approach to the game [here](https://jorg3gf.github.io/Projects/fantasyPL.html) - this is an analysis of the first 8 game weeks of season 2019/20.
 
-Or check out my [Shiny dashboard](https://jorg3.shinyapps.io/fantasydashboard/) to support your player transfers.
+Or check out my [Shiny dashboard](https://jorg3.shinyapps.io/fpldash10/) (updated with GW10 results) to support your player transfers.
 
 Hope you enjoy it!
